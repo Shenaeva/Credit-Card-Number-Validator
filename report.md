@@ -8,19 +8,17 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-•	Фейлятся номера кредитных карт с количеством символов 13-14-15 
-https://github.com/Shenaeva/Credit-Card-Number-Validator/issues/1
+•	[Фейлятся номера кредитных карт с количеством символов 13-14-15](https://github.com/Shenaeva/Credit-Card-Number-Validator/issues/1)
 
-•	Фейлятся номера кредитных карт с количеством цифр 18, 19 
-https://github.com/Shenaeva/Credit-Card-Number-Validator/issues/2 
+•	[Фейлятся номера кредитных карт с количеством цифр 18, 19](https://github.com/Shenaeva/Credit-Card-Number-Validator/issues/2) 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
-•	Список форматов номеров кредитных карт (https://www.freeformatter.com/credit-card-number-generator-validator.html)
+•	[Список форматов номеров кредитных карт](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
-В качестве валидных тестовых данных использовались данные, сгенерированные freeformatter.com (https://www.freeformatter.com/credit-card-number-generator-validator.html):
+В качестве валидных тестовых данных использовались данные, сгенерированные [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 
 Валидные данные (результат – ОК)
 
